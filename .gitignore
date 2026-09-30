@@ -1,0 +1,20 @@
+# 构建产物
+build/
+native/build/
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 抓取数据 —— 含真实会话密钥，切勿提交
+*.log
+capture*.txt
+traffic*.log
+*.pcap
