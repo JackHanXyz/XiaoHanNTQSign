@@ -1,4 +1,4 @@
-# OpenPCNTQSign 
+# XiaoHanNTQSign
 
 对 **PCNT（QQ NT / Electron 版 QQ）签名机制**的研究工具集 —— 既能离线加载并调用 `wrapper.node` 的原生密码学函数，也能在活客户端挂钩 `crypto.dll` 抓取真实的 AES / HMAC 调用素材。
 
